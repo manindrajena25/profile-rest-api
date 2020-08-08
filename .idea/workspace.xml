@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ab9636-8c63-4ac1-b3db-2139c03aea08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile_api/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/profile_api/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/profile_app/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profile_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profile_app/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596886915817</updated>
-      <workItem from="1596886960639" duration="5119000" />
+      <workItem from="1596886960639" duration="6087000" />
     </task>
     <servers />
   </component>
